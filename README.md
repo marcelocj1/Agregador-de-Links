@@ -3,7 +3,7 @@
 Página pessoal para exibir e divulgar links interessantes ao seu público
 
 
-<img src="./assets/bg-negro.jpeg">
+<img src="./assets/TELA.jpg">
 
 
 ## License
